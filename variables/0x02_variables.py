@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 city = 'San Francisco'
 
 # printing the value stored in the city variable
